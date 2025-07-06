@@ -23,4 +23,4 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone --branch master https://github.com/ZxcAntiimage/portfolio.git
